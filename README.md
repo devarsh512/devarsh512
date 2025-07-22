@@ -24,11 +24,12 @@
 ## 🧰 Tech Stack
 
 ```python
-Languages     : Python, C++
+Languages     : Python
 Data Science  : Pandas, NumPy, Matplotlib, Scikit-learn
 Simulations   : Pygame, VPython
 Visualization : Tableau, Excel
-Tools/Other   : Git, GitHub, VS Code
+Tools/Other   : Git, GitHub, VS Code, Jupyter Notebook
+
 
 ---
 
