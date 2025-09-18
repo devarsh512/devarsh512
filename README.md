@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Devarsh 👋</h1>
 
 <p align="center">
-  🚀 Aspiring Data Scientist | 🧪 Python Programmer | 💡 Problem Solver
+  🚀 Science Communicator | 💻 Aspiring Data Scientist | 🧪 Python Programmer | 💡 Problem Solver
 </p>
 
 ---
