@@ -8,28 +8,28 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 MSc Physics student at Gujarat University  
+- 🎓 MSc Physics student at Gujarat University, Ahmedabad  
 - 🧠 Passionate about **Data Science**, **Simulations**, and **Computational Physics**  
-- 🤖 Actively learning **Artificial Intelligence** and **Machine Learning**  
-- 🛠️ Building hands-on Python simulations in Physics and data-driven projects  
-- 📊 Strong foundation in **Python**, **Numerical Methods**, and **Scientific Computing**
+- 🤖 Currently learning **Machine Learning**, **AI fundamentals**, and data-driven modeling  
+- 🛠️ Building hands-on **Python simulations** and **real-world ML/SQL projects**  
+- 📊 Strong foundation in **Python**, **Numerical Methods**, and **Scientific Computing**  
+- 🌌 Interested in applying Data Science in **Space Science & Astronomy**
+
+---
+
+## 🧰 Tech Stack
+
+```python
+Languages     : Python, SQL
+Data Science  : Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+Visualization : Tableau, Excel
+Simulations   : Pygame, VPython
+Tools/Other   : Git, GitHub, VS Code, Jupyter Notebook, Google Colab
 
 ---
 
 ## 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Devarsh512-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/devarsh-prajapati-5160b72a5)
-
-
-## 🧰 Tech Stack
-
-```python
-Languages     : Python, SQL
-Data Science  : Pandas, NumPy, Matplotlib, Scikit-learn
-Simulations   : Pygame, VPython
-Visualization : Tableau, Excel
-Tools/Other   : Git, GitHub, VS Code, Jupyter Notebook
-
-
----
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:your-email@gmail.com)
 
