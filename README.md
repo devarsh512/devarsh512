@@ -20,9 +20,13 @@
 ## 🧰 Tech Stack
 
 Languages     : Python, SQL
+
 Data Science  : Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
 Visualization : Tableau, Excel
+
 Simulations   : Pygame, VPython
+
 Tools/Other   : Git, GitHub, VS Code, Jupyter Notebook, Google Colab
 
 ---
