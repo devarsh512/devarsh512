@@ -24,7 +24,7 @@
 ## 🧰 Tech Stack
 
 ```python
-Languages     : Python
+Languages     : Python, SQL
 Data Science  : Pandas, NumPy, Matplotlib, Scikit-learn
 Simulations   : Pygame, VPython
 Visualization : Tableau, Excel
