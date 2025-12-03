@@ -30,6 +30,8 @@ Tools/Other   : Git, GitHub, VS Code, Jupyter Notebook, Google Colab
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devarsh512-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/devarsh-prajapati-5160b72a5)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devarsh_Prajapati-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/devarsh-prajapati-5160b72a5)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail)](mailto:your-email@gmail.com)
+
+
 
