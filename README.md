@@ -19,7 +19,6 @@
 
 ## 🧰 Tech Stack
 
-```python
 Languages     : Python, SQL
 Data Science  : Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 Visualization : Tableau, Excel
@@ -31,7 +30,27 @@ Tools/Other   : Git, GitHub, VS Code, Jupyter Notebook, Google Colab
 ## 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Devarsh_Prajapati-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/devarsh-prajapati-5160b72a5)
+
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail)](mailto:your-email@gmail.com)
 
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/devarsh512/PricePerSqft-Prediction">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devarsh512&repo=PricePerSqft-Prediction&theme=radical" />
+</a>
+
+<a href="https://github.com/devarsh512/blinkit-sql-analysis">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devarsh512&repo=blinkit-sql-analysis&theme=radical" />
+</a>
+
+<a href="https://github.com/devarsh512/astro-color-calculator">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devarsh512&repo=astro-color-calculator&theme=radical" />
+</a>
+
+</div>
 
 
